@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "localforage": "^1.10.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.14.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
